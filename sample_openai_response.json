@@ -1,0 +1,178 @@
+{
+    _id: ObjectId('666b264f66ba074dbea3b21f'),
+    id: 'chatcmpl-9Zi8oNpNCp9U5gYs3oZ2BkJyJSNpc',
+    object: 'chat.completion',
+    created: 1718298186,
+    model: 'gpt-4o-2024-05-13',
+    choices: [
+    {
+        index: 0,
+        message: {
+          role: 'assistant',
+          content: {
+            Category: 'Lifestyle',
+            DominantColours: [ 'Green', 'Beige', 'White'
+          ],
+            Objects: [ 'Person', 'Sunglasses', 'Blazer', 'Pants', 'Bag'
+          ],
+            TextPresence: 'No',
+            Emotion: 'Calm',
+            Context: 'The image shows a well-dressed person standing in front of a building with green doors. The individual appears confident and relaxed, evoking a sense of calm and style.',
+            VisualAppeal: 8,
+            Suggestions: 'To enhance social media engagement, consider adding a subtle text overlay with a quote or message that resonates with the audience. Additionally, brightening the image slightly could make it more visually appealing.'
+        }
+      },
+        logprobs: null,
+        finish_reason: 'stop'
+    }
+  ],
+    usage: { prompt_tokens: 575, completion_tokens: 154, total_tokens: 729
+  },
+    system_fingerprint: 'fp_aa87380ac5',
+    image_name: 'ig-p-C4fm7TvMCuv.jpg'
+},
+{
+    _id: ObjectId('666b265766ba074dbea3b220'),
+    id: 'chatcmpl-9Zi8vzFW8xVYqYJ7dbO3a3HTGQiLq',
+    object: 'chat.completion',
+    created: 1718298193,
+    model: 'gpt-4o-2024-05-13',
+    choices: [
+    {
+        index: 0,
+        message: {
+          role: 'assistant',
+          content: {
+            Category: 'Event',
+            'Dominant Colours': [ 'Blue', 'Black', 'Orange'
+          ],
+            Objects: [
+              'Basketball hoop',
+              'Basketball',
+              'Players',
+              'Spectators'
+          ],
+            'Text Presence': true,
+            'Text Content': 'MARCH 21,
+          2024 VS. GONZAGA\n' +
+              'NO ONE WANTED TO CONTEST THIS DUNK BY CHRISTIAN SHUMATE',
+            Emotion: 'Exciting',
+            Context: 'This image captures an exhilarating moment during a basketball game between two teams, with a player making a spectacular dunk while the audience and other players look on.',
+            'Visual Appeal': 8,
+            Suggestions: 'To improve the visual effectiveness for social media engagement, consider adding a dynamic caption or hashtag to engage with viewers. Enhancing the brightness and contrast could make the image more vivid and eye-catching.'
+        }
+      },
+        logprobs: null,
+        finish_reason: 'stop'
+    }
+  ],
+    usage: { prompt_tokens: 575, completion_tokens: 183, total_tokens: 758
+  },
+    system_fingerprint: 'fp_aa87380ac5',
+    image_name: 'ig-p-C5BZ9H-LKxX.jpg'
+},
+{
+    _id: ObjectId('666b265e66ba074dbea3b221'),
+    id: 'chatcmpl-9Zi93rtAK894JCH3nKj3W8L2U931u',
+    object: 'chat.completion',
+    created: 1718298201,
+    model: 'gpt-4o-2024-05-13',
+    choices: [
+    {
+        index: 0,
+        message: {
+          role: 'assistant',
+          content: {
+            Category: 'Event',
+            'Dominant Colours': [ 'Blue', 'Yellow', 'White'
+          ],
+            Objects: [ 'Person', 'Basketball Hoop', 'Eagle'
+          ],
+            'Text Presence': { Exists: true, Content: 'IOWA 22 B/R'
+          },
+            Emotion: 'Exciting',
+            Context: 'A basketball player from Iowa, wearing a jersey with the number 22, is celebrating in an arena, with an eagle perched on their shoulder and a basketball hoop in the background. The image has a dynamic and energetic atmosphere, with bright lights and a crowd-like setting.',
+            'Visual Appeal': 8,
+            Suggestions: "To enhance visual effectiveness for social media engagement, consider adding a call-to-action text or hashtag. Also, a brighter focus on the player's face could increase emotional connection."
+        }
+      },
+        logprobs: null,
+        finish_reason: 'stop'
+    }
+  ],
+    usage: { prompt_tokens: 575, completion_tokens: 179, total_tokens: 754
+  },
+    system_fingerprint: 'fp_aa87380ac5',
+    image_name: 'ig-p-C5PaG0FpeJY.jpg'
+},
+{
+    _id: ObjectId('666b266566ba074dbea3b222'),
+    id: 'chatcmpl-9Zi9APnTVbZdrmXHpr0AIXsCT8emF',
+    object: 'chat.completion',
+    created: 1718298208,
+    model: 'gpt-4o-2024-05-13',
+    choices: [
+    {
+        index: 0,
+        message: {
+          role: 'assistant',
+          content: {
+            Category: 'Meme',
+            DominantColours: [ 'White', 'Blue', 'Yellow'
+          ],
+            Objects: [ 'Two social media posts'
+          ],
+            TextPresence: {
+              IsTextPresent: true,
+              TextContent: "@Ryanair any way I could get a free sandwich my next flight? Sure, it's called the middle seat"
+          },
+            Emotion: 'Humorous',
+            Context: "The image shows a Twitter exchange between a user and an airline's official account, where the airline responds humorously to a request for a free sandwich.",
+            VisualAppeal: 7,
+            Suggestions: {
+              ImproveVisualEffectiveness: 'To enhance engagement on social media, consider using vibrant background colors or adding relevant emojis to make the post more visually appealing. Ensuring the text size is larger and clearer can also help readability.'
+          }
+        }
+      },
+        logprobs: null,
+        finish_reason: 'stop'
+    }
+  ],
+    usage: { prompt_tokens: 575, completion_tokens: 185, total_tokens: 760
+  },
+    system_fingerprint: 'fp_aa87380ac5',
+    image_name: 'ig-p-Ct6lP4WouXB.jpg'
+},
+{
+    _id: ObjectId('666b266b66ba074dbea3b223'),
+    id: 'chatcmpl-9Zi9HHaOPqk9whC7xM6kGy6SSzy5e',
+    object: 'chat.completion',
+    created: 1718298215,
+    model: 'gpt-4o-2024-05-13',
+    choices: [
+    {
+        index: 0,
+        message: {
+          role: 'assistant',
+          content: {
+            Category: 'Lifestyle',
+            DominantColours: [ 'Red', 'Pink', 'Grey'
+          ],
+            Objects: [ 'Person'
+          ],
+            TextPresence: 'No',
+            Emotion: 'Confident',
+            Context: 'The image depicts a person wearing red and pink clothing in a casual setting. The person appears to be walking, showing off the outfit.',
+            VisualAppeal: 7,
+            Suggestions: 'To improve social media engagement, consider adding a catchy text overlay or a hashtag related to fashion or lifestyle. Additionally, enhancing the background with elements that complement the outfit could also make the image more visually appealing.'
+        }
+      },
+        logprobs: null,
+        finish_reason: 'stop'
+    }
+  ],
+    usage: { prompt_tokens: 575, completion_tokens: 134, total_tokens: 709
+  },
+    system_fingerprint: 'fp_aa87380ac5',
+    image_name: 'ig-p-CvFg2llNI7v.jpg'
+}
